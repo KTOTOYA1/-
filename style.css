@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #AFFFBC
+}
+h1{
+    text-align:center ;
+    color: #177300;
+
+
+}
+header{
+   background-color:#CFEFBB ; 
+}
+a{
+    color: #000000;
+    margin: 20px;
+    background-color: #1DCF00;
+    padding: 3px;
+}
+header p{
+    text-align: center;
+}
+ol{
+    color: #177300;    
+}
+h2{
+    text-align: center;
+    color: #0F4900;
+    background-color: rgb(211, 210, 210);
+    border: solid 1px black;
+}
+footer{
+    background-color: #CFEFBB;
+    text-align: center;
+}
+img{
+    height: 250px;
+    width: 260px;
+}
+    
+
